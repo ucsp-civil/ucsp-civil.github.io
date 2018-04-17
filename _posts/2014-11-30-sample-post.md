@@ -1,26 +1,14 @@
 ---
 layout: post
-title: Sample post
+title: Presentación
+feature-img: "assets/img/pexels/desk-messy.jpeg"
+thumbnail: "assets/img/thumbnails/desk-messy.jpeg"
 tags: [Test, Lorem, Ipsum]
 excerpt_separator: <!--more-->
 ---
-Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. 
-Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. 
-<!--more-->
-Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.
 
-* Consectetur adipiscing elit
-* Donec a diam lectus
-* Sed sit amet ipsum mauris
+La ingeniería civil es la ciencia que, mediante conocimientos científicos, tecnológicos y humanísticos, permite proyectar, conducir, dirigir y crear las obras de estructura e infraestructura necesarias para acondicionar adecuadamente el hábitat humano.
 
-Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.
+La Ingeniería es el arte de la ciencia que mediante el conocimiento e ingenio emplea los principios establecidos por las ciencias básicas de las matemáticas, física y química en virtud al estudio de la explicación de la existencia y comportamiento de los fenómenos físicos de nuestro medio, para dar soluciones a los requerimientos de la existencia humana en el espacio y tiempo.
 
-Nunc diam velit, adipiscing ut tristique vitae, sagittis vel odio. Maecenas convallis ullamcorper ultricies. Curabitur ornare, ligula *semper consectetur sagittis*, nisi diam iaculis velit, id fringilla sem nunc vel mi. Nam dictum, odio nec pretium volutpat, arcu ante placerat erat, non tristique elit urna et turpis. Quisque mi metus, ornare sit amet fermentum et, tincidunt et orci. Fusce eget orci a orci congue vestibulum.
-
-Ut dolor diam, elementum et vestibulum eu, porttitor vel elit. Curabitur venenatis pulvinar tellus gravida ornare. Sed et erat faucibus nunc euismod ultricies ut id justo. Nullam cursus suscipit nisi, et ultrices justo sodales nec. Fusce venenatis facilisis lectus ac semper. Aliquam at massa ipsum. Quisque bibendum purus convallis nulla ultrices ultricies. Nullam aliquam, mi eu aliquam tincidunt, purus velit laoreet tortor, viverra pretium nisi quam vitae mi. Fusce vel volutpat elit. Nam sagittis nisi dui.
-
-> Suspendisse lectus leo, consectetur in tempor sit amet, placerat quis neque
-
-Etiam luctus porttitor lorem, sed suscipit est rutrum non. Curabitur lobortis nisl a enim congue semper. Aenean commodo ultrices imperdiet. Vestibulum ut justo vel sapien venenatis tincidunt.
-
-Phasellus eget dolor sit amet ipsum dapibus condimentum vitae quis lectus. Aliquam ut massa in turpis dapibus convallis. Praesent elit lacus, vestibulum at malesuada et, ornare et est. Ut augue nunc, sodales ut euismod non, adipiscing vitae orci. Mauris ut placerat justo. Mauris in ultricies enim. Quisque nec est eleifend nulla ultrices egestas quis ut quam. Donec sollicitudin lectus a mauris pulvinar id aliquam urna cursus. Cras quis ligula sem, vel elementum mi. Phasellus non ullamcorper urna.
+Respecto a la Ingeniería Civil esta se define como la ciencia que mediante los conocimientos científicos, tecnológicos y humanísticos permite proyectar, conducir, dirigir y crear, por medio de las matemáticas aplicadas, las obras de estructura e infraestructura necesarias para acondicionar adecuadamente tanto física como culturalmente, el hábitat humano (Colegio de Ingenieros del Perú).
