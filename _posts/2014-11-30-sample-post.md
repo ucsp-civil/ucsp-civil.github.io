@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Presentación
-feature-img: "assets/img/pexels/desk-messy.jpeg"
-thumbnail: "assets/img/thumbnails/desk-messy.jpeg"
+feature-img: "assets/img/pexels/civil-presentacion.jpeg"
+thumbnail: "assets/img/thumbnails/civil-presentacion.jpeg"
 tags: [Test, Lorem, Ipsum]
 excerpt_separator: <!--more-->
 ---
