@@ -95,9 +95,9 @@ weight : 120
  }
 
 </style>
-((![Medina Sánchez, Tatiana]({site.baseurl}}/assets/img/professors/Tatiana-Medina-Sanchez.jpg){:class="proff"}){:class="cover-author-image"}
+{{![Medina Sánchez, Tatiana]({site.baseurl}}/assets/img/professors/Tatiana-Medina-Sanchez.jpg){:class="proff"}}{:class="cover-author-image"}
 (){:class="author-name"}
-){:class="about"}
+}{:class="about"}
 
 |:--------------------------------------------------------:| --------------------------- |:----------------:|
 | ![Leon Mogrovejo, Daphne]({{site.baseurl}}/assets/img/professors/Daphne-Leon-Mogrovejo.jpg){: .prof .cover-image}                   |  Leon Mogrovejo, Daphne      |  [website][web1] |
