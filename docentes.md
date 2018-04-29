@@ -10,7 +10,7 @@ weight : 120
       text-align: center;
     }
 
-    .prof{
+    .prof .cover-image{
       width: 100px;
       height: 100px;
       margin: 0 auto 10px;
@@ -39,7 +39,7 @@ weight : 120
 </style>
 
 |:--------------------------------------------------------------------------------------------------------------------:| --------------------------- |:----------------:|
-| ![Leon Mogrovejo, Daphne]({{site.baseurl}}/assets/img/professors/Daphne-Leon-Mogrovejo.jpg){:class="prof"}                   |  Leon Mogrovejo, Daphne      |  [website][web1] |
+| ![Leon Mogrovejo, Daphne]({{site.baseurl}}/assets/img/professors/Daphne-Leon-Mogrovejo.jpg){: .prof .cover-image}                   |  Leon Mogrovejo, Daphne      |  [website][web1] |
 | ![Medina Sánchez, Tatiana]({{site.baseurl}}/assets/img/professors/Tatiana-Medina-Sanchez.jpg){:class="prof"}       | Medina Sánchez, Tatiana     |  [website][web2] |
 | ![Pinto Rodriguez, Galvarino]({{site.baseurl}}/assets/img/professors/Galvarino-Pinto-Rodriguez.jpg){:class="prof"} | Pinto Rodriguez, Galvarino  |  [website][web3] |
 | ![Simbort Zeballos, Enrique]({{site.baseurl}}/assets/img/professors/Enrique-Simbort-Zeballos.jpg){:class="prof"}   | Simbort Zeballos, Enrique   |  [website][web4] |
