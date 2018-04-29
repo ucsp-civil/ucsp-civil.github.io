@@ -5,11 +5,11 @@ weight : 120
 ---
 
 |:--------------------------------------------------------------------------------------------------------------------:| --------------------------- |:----------------:|
-| ![Leon Mogrovejo, Daphne]({site.baseurl}}/assets/img/professors/Daphne-Leon-Mogrovejo.jpg)                   |  Leon Mogrovejo, Daphne      |  [website][web1] |
-| ![Medina Sánchez, Tatiana]({site.baseurl}}/assets/img/professors/Tatiana-Medina-Sanchez.jpg){:class="post-img"}       | Medina Sánchez, Tatiana     |  [website][web2] |
-| ![Pinto Rodriguez, Galvarino]({site.baseurl}}/assets/img/professors/Galvarino-Pinto-Rodriguez.jpg){:class="post-img"} | Pinto Rodriguez, Galvarino  |  [website][web3] |
-| ![Simbort Zeballos, Enrique]({site.baseurl}}/assets/img/professors/Enrique-Simbort-Zeballos.jpg){:class="post-img"}   | Simbort Zeballos, Enrique   |  [website][web4] |
-| ![Zeballos Velarde, Carlos]({site.baseurl}}/assets/img/professors/Carlos-Zeballos-Velard.jpg){:class="post-img"}      | Zeballos Velarde, Carlos    |  [website][web5] |
+| ![Leon Mogrovejo, Daphne]({{site.baseurl}}/assets/img/professors/Daphne-Leon-Mogrovejo.jpg)                   |  Leon Mogrovejo, Daphne      |  [website][web1] |
+| ![Medina Sánchez, Tatiana]({{site.baseurl}}/assets/img/professors/Tatiana-Medina-Sanchez.jpg){:class="post-img"}       | Medina Sánchez, Tatiana     |  [website][web2] |
+| ![Pinto Rodriguez, Galvarino]({{site.baseurl}}/assets/img/professors/Galvarino-Pinto-Rodriguez.jpg){:class="post-img"} | Pinto Rodriguez, Galvarino  |  [website][web3] |
+| ![Simbort Zeballos, Enrique]({{site.baseurl}}/assets/img/professors/Enrique-Simbort-Zeballos.jpg){:class="post-img"}   | Simbort Zeballos, Enrique   |  [website][web4] |
+| ![Zeballos Velarde, Carlos]({{site.baseurl}}/assets/img/professors/Carlos-Zeballos-Velard.jpg){:class="post-img"}      | Zeballos Velarde, Carlos    |  [website][web5] |
 
 
 
