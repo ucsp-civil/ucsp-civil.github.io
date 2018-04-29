@@ -5,7 +5,12 @@ weight : 120
 ---
 
 <style>
-    .prof {
+    .prof{
+      margin: 0 0 40px;
+      text-align: center;
+    }
+
+    .prof{
       width: 100px;
       height: 100px;
       margin: 0 auto 10px;
@@ -16,8 +21,8 @@ weight : 120
     }
     
     .prof{
-      width: 100px;
-      height: 100px;
+      width: 100%;
+      height: 100%;
       -webkit-border-radius: 50%;
               border-radius: 50%;
       -webkit-transition: -webkit-transform 0.35s;
