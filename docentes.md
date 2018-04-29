@@ -21,7 +21,7 @@ weight : 120
     }
     
     .prof{
-      width: 10px;
+      width: 100px;
       height: 100px;
       -webkit-border-radius: 50%;
               border-radius: 50%;
@@ -96,7 +96,7 @@ weight : 120
 
 </style>
 
-{:class="about"}{:class="cover-author-image"}![Medina Sánchez, Tatiana]({{site.baseurl}}/assets/img/professors/Tatiana-Medina-Sanchez.jpg){:class="proff"}Tatiana Medina Sánchez{:class="author-name"}
+![Medina Sánchez, Tatiana]({{site.baseurl}}/assets/img/professors/Tatiana-Medina-Sanchez.jpg){:class="proff"}Tatiana Medina Sánchez{:class="author-name"}
 
 |:--------------------------------------------------------:| --------------------------- |:----------------:|
 | ![Leon Mogrovejo, Daphne]({{site.baseurl}}/assets/img/professors/Daphne-Leon-Mogrovejo.jpg){: .prof .cover-image}                   |  Leon Mogrovejo, Daphne      |  [website][web1] |
