@@ -20,7 +20,7 @@ weight : 120
       background-color: #333030;
     }
     
-    .prof img {
+    .prof{
       width: 100%;
       height: 100%;
       -webkit-border-radius: 50%;
@@ -32,7 +32,7 @@ weight : 120
       transition: transform 0.35s, -webkit-transform 0.35s;
     }
     
-    .prof img:hover {
+    .prof:hover {
       -webkit-transform: scale3d(0.9, 0.9, 1);
               transform: scale3d(0.9, 0.9, 1);
     }
