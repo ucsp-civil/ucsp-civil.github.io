@@ -42,7 +42,7 @@ weight : 120
    text-align: center;
  }
  
- .about .cover-author-image {
+  .cover-author-image {
    width: 100px;
    height: 100px;
    margin: 0 auto 10px;
@@ -52,7 +52,7 @@ weight : 120
    background-color: #333030;
  }
  
- .about .proff {
+ .proff {
    width: 100%;
    height: 100%;
    -webkit-border-radius: 50%;
@@ -64,12 +64,12 @@ weight : 120
    transition: transform 0.35s, -webkit-transform 0.35s;
  }
  
- .about .proff:hover {
+ .proff:hover {
    -webkit-transform: scale3d(0.9, 0.9, 1);
            transform: scale3d(0.9, 0.9, 1);
  }
  
- .about .author-name {
+   .author-name {
    font-family: 'PT Serif', serif;
    margin: 0 0 10px;
    position: relative;
@@ -78,7 +78,7 @@ weight : 120
    text-transform: uppercase;
    color: #333030;
 }
- .about .author-name::after {
+   .author-name::after {
    content: "";
    position: absolute;
    left: 50%;
