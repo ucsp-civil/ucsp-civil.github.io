@@ -11,6 +11,10 @@ weight : 120
       text-align:center;
       }
 
+    td, th{
+      text-align:center;
+    }
+
     .prof{
       margin: 0 0 40px;
       text-align: center;
