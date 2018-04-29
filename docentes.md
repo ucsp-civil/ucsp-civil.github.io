@@ -21,8 +21,8 @@ weight : 120
     }
     
     .prof{
-      width: 50%;
-      height: 50%;
+      width: 100px;
+      height: 100px;
       -webkit-border-radius: 50%;
               border-radius: 50%;
       -webkit-transition: -webkit-transform 0.35s;
