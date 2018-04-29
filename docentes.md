@@ -21,8 +21,8 @@ weight : 120
     }
     
     .prof{
-      width: 100px;
-      height: 100px;
+      width: 30%;
+      height: 30%;
       -webkit-border-radius: 50%;
               border-radius: 50%;
       -webkit-transition: -webkit-transform 0.35s;
@@ -37,66 +37,8 @@ weight : 120
               transform: scale3d(0.9, 0.9, 1);
     }
 
- .about {
-   margin: 0 0 40px;
-   text-align: center;
- }
- 
-  .cover-author-image {
-   width: 100px;
-   height: 100px;
-   margin: 0 auto 10px;
-   -webkit-border-radius: 100%;
-           border-radius: 100%;
-   overflow: hidden;
-   background-color: #333030;
- }
- 
- .proff {
-   width: 30%;
-   height: 30%;
-   -webkit-border-radius: 30%;
-           border-radius: 30%;
-   -webkit-transition: -webkit-transform 0.35s;
-   transition: -webkit-transform 0.35s;
-   -o-transition: transform 0.35s;
-   transition: transform 0.35s;
-   transition: transform 0.35s, -webkit-transform 0.35s;
- }
- 
- .proff:hover {
-   -webkit-transform: scale3d(0.9, 0.9, 1);
-           transform: scale3d(0.9, 0.9, 1);
- }
- 
-   .author-name {
-   font-family: 'PT Serif', serif;
-   margin: 0 0 10px;
-   position: relative;
-   padding-bottom: 15px;
-   font-size: 16px;
-   text-transform: uppercase;
-   color: #333030;
-}
-   .author-name::after {
-   content: "";
-   position: absolute;
-   left: 50%;
-   -webkit-transform: translateX(-50%);
-       -ms-transform: translateX(-50%);
-           transform: translateX(-50%);
-   bottom: 0;
-   display: block;
-   width: 7px;
-   height: 7px;
-   -webkit-border-radius: 100%;
-           border-radius: 100%;
-   background-color: #515151;
- }
 
 </style>
-
-![Medina Sánchez, Tatiana]({{site.baseurl}}/assets/img/professors/Tatiana-Medina-Sanchez.jpg){:class="proff"}Tatiana Medina Sánchez{
 
 |:--------------------------------------------------------:| --------------------------- |:----------------:|
 | ![Leon Mogrovejo, Daphne]({{site.baseurl}}/assets/img/professors/Daphne-Leon-Mogrovejo.jpg){: .prof .cover-image}                   |  Leon Mogrovejo, Daphne      |  [website][web1] |
