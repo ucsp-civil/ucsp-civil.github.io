@@ -5,12 +5,7 @@ weight : 120
 ---
 
 <style>
-    .about {
-      margin: 0 0 40px;
-      text-align: center;
-    }
-    
-    .prof .cover-author-image {
+    .prof {
       width: 100px;
       height: 100px;
       margin: 0 auto 10px;
