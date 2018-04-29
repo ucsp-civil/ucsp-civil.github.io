@@ -21,8 +21,8 @@ weight : 120
     }
     
     .prof{
-      width: 100%;
-      height: 100%;
+      width: 50%;
+      height: 50%;
       -webkit-border-radius: 50%;
               border-radius: 50%;
       -webkit-transition: -webkit-transform 0.35s;
@@ -39,11 +39,11 @@ weight : 120
 </style>
 
 |:--------------------------------------------------------------------------------------------------------------------:| --------------------------- |:----------------:|
-| ![Leon Mogrovejo, Daphne]({{site.baseurl}}/assets/img/professors/Daphne-Leon-Mogrovejo.jpg)                   |  Leon Mogrovejo, Daphne      |  [website][web1] |
+| ![Leon Mogrovejo, Daphne]({{site.baseurl}}/assets/img/professors/Daphne-Leon-Mogrovejo.jpg){:class="prof"}                   |  Leon Mogrovejo, Daphne      |  [website][web1] |
 | ![Medina Sánchez, Tatiana]({{site.baseurl}}/assets/img/professors/Tatiana-Medina-Sanchez.jpg){:class="prof"}       | Medina Sánchez, Tatiana     |  [website][web2] |
 | ![Pinto Rodriguez, Galvarino]({{site.baseurl}}/assets/img/professors/Galvarino-Pinto-Rodriguez.jpg){:class="prof"} | Pinto Rodriguez, Galvarino  |  [website][web3] |
-| ![Simbort Zeballos, Enrique]({{site.baseurl}}/assets/img/professors/Enrique-Simbort-Zeballos.jpg){:class="post-img"}   | Simbort Zeballos, Enrique   |  [website][web4] |
-| ![Zeballos Velarde, Carlos]({{site.baseurl}}/assets/img/professors/Carlos-Zeballos-Velarde.jpg){:class="post-img"}      | Zeballos Velarde, Carlos    |  [website][web5] |
+| ![Simbort Zeballos, Enrique]({{site.baseurl}}/assets/img/professors/Enrique-Simbort-Zeballos.jpg){:class="prof"}   | Simbort Zeballos, Enrique   |  [website][web4] |
+| ![Zeballos Velarde, Carlos]({{site.baseurl}}/assets/img/professors/Carlos-Zeballos-Velarde.jpg){:class="prof"}      | Zeballos Velarde, Carlos    |  [website][web5] |
 
 
 
