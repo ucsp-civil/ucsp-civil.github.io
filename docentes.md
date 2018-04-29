@@ -4,13 +4,12 @@ title: Docentes
 weight : 120
 ---
 
-|                             |               |                  |
-| --------------------------- |:-------------:|:----------------:|
-| Leon Mogrovejo, Daphne      | right-aligned |  [website][web1] |
-| Medina Sánchez, Tatiana     | centered      |  [website][web2] |
-| Pinto Rodriguez, Galvarino  | are neat      |  [website][web3] |
-| Simbort Zeballos, Enrique   | are neat      |  [website][web4] |
-| Zeballos Velarde, Carlos    | are neat      |  [website][web5] |
+|:----------------------------------------------------:| --------------------------- |:----------------:|
+|<img src="assets/img/Daphne-Leon-Mogrovejo.jpg"/>     | Leon Mogrovejo, Daphne      |  [website][web1] |
+|<img src="assets/img/Tatiana-Medina-Sanchez.jpg"/>    | Medina Sánchez, Tatiana     |  [website][web2] |
+|<img src="assets/img/Galvarino-Pinto-Rodriguez.jpg"/> | Pinto Rodriguez, Galvarino  |  [website][web3] |
+|<img src="assets/img/Enrique-Simbort-Zeballos.jpg"/>  | Simbort Zeballos, Enrique   |  [website][web4] |
+|<img src="assets/img/Carlos-Zeballos-Velarde.jpg"/>   | Zeballos Velarde, Carlos    |  [website][web5] |
 
 
 
