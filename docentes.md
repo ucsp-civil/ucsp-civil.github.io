@@ -53,10 +53,10 @@ weight : 120
  }
  
  .proff {
-   width: 20%;
-   height: 20%;
-   -webkit-border-radius: 50%;
-           border-radius: 50%;
+   width: 30%;
+   height: 30%;
+   -webkit-border-radius: 30%;
+           border-radius: 30%;
    -webkit-transition: -webkit-transform 0.35s;
    transition: -webkit-transform 0.35s;
    -o-transition: transform 0.35s;
@@ -96,7 +96,7 @@ weight : 120
 
 </style>
 
-![Medina Sánchez, Tatiana]({{site.baseurl}}/assets/img/professors/Tatiana-Medina-Sanchez.jpg){:class="proff"}Tatiana Medina Sánchez{:class="author-name"}
+![Medina Sánchez, Tatiana]({{site.baseurl}}/assets/img/professors/Tatiana-Medina-Sanchez.jpg){:class="proff"}Tatiana Medina Sánchez{
 
 |:--------------------------------------------------------:| --------------------------- |:----------------:|
 | ![Leon Mogrovejo, Daphne]({{site.baseurl}}/assets/img/professors/Daphne-Leon-Mogrovejo.jpg){: .prof .cover-image}                   |  Leon Mogrovejo, Daphne      |  [website][web1] |
