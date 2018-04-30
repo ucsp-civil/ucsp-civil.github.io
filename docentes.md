@@ -32,7 +32,7 @@ weight : 120
     
     .prof{
       width: 150px;
-      height: 150px%;
+      height: 150px;
       -webkit-border-radius: 50%;
               border-radius: 50%;
       -webkit-transition: -webkit-transform 0.35s;
